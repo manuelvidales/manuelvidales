@@ -5,7 +5,7 @@ Web developer
 -------------
 
 * 🌍  I'm based in Reynosa, Mexico 🇲🇽
-* 🖥️  See my portfolio at [manuelvidales](https://manuelvidales.github.io)
+* 🖥️  See my perfil of contact at [manuelvidales](https://manuelvidales.github.io)
 * ✉️  You can contact me at [Telegram](https://t.me/virumaap)
 * 🚀  I'm currently Developer Web & SysAdmin Freelancer
 
