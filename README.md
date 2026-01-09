@@ -9,7 +9,7 @@ Developer & SysAdmin
 * ✉️  You can contact me at [Telegram](https://t.me/virumaap)
 * 🚀  I'm currently Developer & SysAdmin Freelancer.
 
-<a href="https://github.com/manuelvidales" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/manuelvidales?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://github.com/manuelvidales" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/virumaap?style=for-the-badge&logo=X&logoColor=cyan&color=0891b2"/></a>
+<a href="https://github.com/manuelvidales" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/manuelvidales?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://x.com/virumaap" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/virumaap?style=for-the-badge&logo=X&logoColor=cyan&color=0891b2"/></a>
 
 
 
