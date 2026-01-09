@@ -9,6 +9,6 @@ Web developer
 * ✉️  You can contact me at [Telegram](https://t.me/virumaap)
 * 🚀  I'm currently Developer Web & SysAdmin Freelancer
 
-<a href="https://github.com/manuelvidales" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/manuelvidales?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/virumaap" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/virumaap?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/manuelvidales" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/manuelvidales?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/virumaap" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/virumaap?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 🛸 👽
