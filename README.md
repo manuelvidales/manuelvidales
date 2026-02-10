@@ -1,15 +1,48 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel Vidales
-===============================================================================================================================================
+---
 
-Developer & SysAdmin
--------------
+**`SysAdmin`**
+**`Systems Analyst`**
+**`Web Developer`**
+**`PHP Developer`**
+**`TALL Stack`**
+
+Hello, my name is Manuel Vidales and I'm a software developer. I specialize in web application development. Currently, I develop with Laravel, Livewire, and PHP, but I'm always learning and testing new technologies. I'm passionate about technology and learning new things. I have a degree in Computer Science from UAT.
 
 * 🌍  I'm based in Reynosa, Mexico 🇲🇽
 * 🖥️  See my perfil of contact at [manuelvidales](https://manuelvidales.github.io)
-* ✉️  You can contact me at [Telegram](https://t.me/virumaap)
 * 🚀  I'm currently Developer & SysAdmin Freelancer.
 
-<a href="https://github.com/manuelvidales" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/manuelvidales?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://x.com/virumaap" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/virumaap?style=for-the-badge&logo=X&logoColor=cyan&color=0891b2"/></a>
+
+[![](https://img.shields.io/badge/@manuelvidales-100000?style=flat&logo=github&logoColor=white)](https://github.com/manuelvidales)
+[![](https://img.shields.io/badge/@manuelvidales-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelvidales/)
+[![](https://img.shields.io/badge/@manuelvidales-444444?style=flat&logo=x&logoColor=white)](https://www.x.com/virumaap/)
+---
+### 🤖 Languages ​​and Technologies
+
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-0E8EE9?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-38761d?style=flat-square&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-5b5b5b?style=flat-square&logo=javascript&logoColor=yellow)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-085caf?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-744700?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-0841d2?style=flat-square&logo=docker&logoColor=white)
+![PestPHP](https://img.shields.io/badge/PestPHP-8D6748?style=flat-square&logo=php&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
 
